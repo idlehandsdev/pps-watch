@@ -7,7 +7,7 @@ It doesn't tell you the time. It tells you exactly when each second begins, sync
 
 ## What it does
 
-- Receives GPS L1 (1575.42 MHz), achieves position/time fix
+- Receives GPS , achieves position/time fix
 - Outputs 1PPS (one pulse per second) on the GPS module's hardware TIMEPULSE pin, silent until locked, active at 1Hz once locked
 - Distributes that PPS signal across two BNC connectors via buffered outputs
 - Accepts an external PPS reference, compares it against the GPS PPS via a hardware XOR phase comparator, with LED indicators for PPS presence and phase offset
@@ -34,7 +34,7 @@ This is a KiCad project. PCB mechanical design and 3D assembly were done in Fusi
 
 ## Status
 
-Built on a two week deadline. Assembled on a pick and place + reflow station as a filmed segment.
+
 
 ---
 
