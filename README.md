@@ -35,6 +35,7 @@ This is a KiCad project. PCB mechanical design and 3D assembly were done in Fusi
 
 ## Status
 
+- ** BOM needs updated missing a few components! - https://www.digikey.ca/en/mylists/list/XIH163JVIJ
 
 
 ---
