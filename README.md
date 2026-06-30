@@ -1,7 +1,8 @@
-#PPS Watch
-###A GPS-disciplined 1PPS reference wearable.
+# PPS Watch  
 
-It doesn't tell you the time. It tells you exactly when each second begins, synchronized to the same atomic clocks that run GPS, the internet, cellular networks, and financial systems -- accurate to within ~100ns of UTC. That signal comes out on a BNC connector. Two of them, actually.
+### A GPS-disciplined 1PPS reference wearable.
+
+It doesn't tell you the time. It tells you exactly when each second begins, synchronized to the same atomic clocks that run GPS
 
 ---
 
