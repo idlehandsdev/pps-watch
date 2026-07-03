@@ -1,10 +1,9 @@
 # PPS Watch  
 
-### A GPS-disciplined 1PPS reference wearable.
+### The Most Accurate Watch the Doesn't Tell Time.
 
 [![Watch the video](https://img.youtube.com/vi/AHSqyuOPpf0/0.jpg)](https://youtu.be/AHSqyuOPpf0)
 
-It doesn't tell you the time. It tells you exactly when each second begins, synchronized to the same atomic clocks that run GPS.
 
 ---
 
@@ -35,11 +34,29 @@ This is a KiCad project. PCB mechanical design and 3D assembly were done in Fusi
 
 **Fusion 360 share link:** https://a360.co/4xXmWnG
 
-## Status
+## BOM
 
 - ** BOM needs updated missing a few components! - https://www.digikey.ca/en/mylists/list/XIH163JVIJ
 
+## Watch Assembly
 
+### 3D Printed Parts
+
+Print the following files from the `CAD/` folder:
+
+- `CAD/pcb_frame_mount.stl` -- frame that holds the PCB
+- `CAD/watch_band_mount.stl` -- mounts the band to the frame
+
+### Watch Band
+
+Any standard 22mm watch band works. Tested with:
+
+[Bandini Nylon Sports Watch Band Strap 22mm](https://www.amazon.com/dp/B09R2BVRWQ)
+
+### Hardware
+
+- 2 x M2x6mm Flat Head Plastic Threading Screws to mount body to strap mount.
+- 2 x M3x35mm Round Head Machine Screws to mount strap. Just Thread into the plastic snugly.
 ---
 
 *Felix Corp -- Idle Hands Dev R&D Division*
