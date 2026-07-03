@@ -1,6 +1,6 @@
 # PPS Watch  
 
-### The Most Accurate Watch the Doesn't Tell Time.
+### The Most Accurate Watch that Doesn't Tell Time.
 
 [![Watch the video](https://img.youtube.com/vi/AHSqyuOPpf0/0.jpg)](https://youtu.be/AHSqyuOPpf0)
 
