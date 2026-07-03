@@ -36,7 +36,30 @@ This is a KiCad project. PCB mechanical design and 3D assembly were done in Fusi
 
 ## BOM
 
-- ** BOM needs updated missing a few components! - https://www.digikey.ca/en/mylists/list/XIH163JVIJ
+- ** BOM should be up to date! - https://www.digikey.ca/en/mylists/list/XIH163JVIJ
+- ** R2 was a 0R resistor, but the BOM now includes a PTC instead.
+
+| Reference | Qty | Value | Digikey Part No. |
+|---|---|---|---|
+| AE3 | 1 | YEGT002AA | [2958-YEGT002AA-ND](https://www.digikey.com/en/products/detail/2958-YEGT002AA-ND) |
+| BT2 | 1 | BU2450SM-JJ-G | [BU2450SM-JJ-GCT-ND](https://www.digikey.com/en/products/detail/BU2450SM-JJ-GCT-ND) |
+| C1 | 1 | 100pF C0G | [311-1111-1-ND](https://www.digikey.com/en/products/detail/311-1111-1-ND) |
+| C2, C3, C4, C5 | 4 | 0.1uF | [311-4348-1-ND](https://www.digikey.com/en/products/detail/311-4348-1-ND) |
+| D1 | 1 | LED Red | [160-1415-1-ND](https://www.digikey.com/en/products/detail/160-1415-1-ND) |
+| D2 | 1 | PESD0402-140 | [PESD0402-140CT-ND](https://www.digikey.com/en/products/detail/PESD0402-140CT-ND) |
+| D3, D4 | 2 | LED Green | [475-LGR971-KN-1TR-ND](https://www.digikey.com/en/products/detail/475-LGR971-KN-1TR-ND) |
+| J1, J4 | 2 | BNC 2466267-1 | [17-2466267-1-ND](https://www.digikey.com/en/products/detail/17-2466267-1-ND) |
+| J2 | 1 | CONSMA002-SMD-G-T | [343-CONSMA002-SMD-G-TCT-ND](https://www.digikey.com/en/products/detail/343-CONSMA002-SMD-G-TCT-ND) |
+| J6 | 1 | Qwiic | [1568-14417-ND](https://www.digikey.com/en/products/detail/1568-14417-ND) |
+| L1 | 1 | Ferrite Bead | [490-1040-1-ND](https://www.digikey.com/en/products/detail/490-1040-1-ND) |
+| R1 | 1 | 470R | [311-470ARCT-ND](https://www.digikey.com/en/products/detail/311-470ARCT-ND) |
+| R2 | 1 | 500mA PolyFuse | [F2772CT-ND](https://www.digikey.com/en/products/detail/F2772CT-ND) |
+| R3, R6 | 2 | 10K | [311-10KARCT-ND](https://www.digikey.com/en/products/detail/311-10KARCT-ND) |
+| R4, R5 | 2 | 330R | [311-330ARCT-ND](https://www.digikey.com/en/products/detail/311-330ARCT-ND) |
+| SW1 | 1 | Power Switch SPDT | [401-2016-1-ND](https://www.digikey.com/en/products/detail/401-2016-1-ND) |
+| U1 | 1 | MAX-M10S | [672-MAX-M10S-00BTR-ND](https://www.digikey.com/en/products/detail/672-MAX-M10S-00BTR-ND) |
+| U3, U6 | 2 | 74HC125D | [74HC125DCT-ND](https://www.digikey.com/en/products/detail/74HC125DCT-ND) |
+| U5 | 1 | 74AHC1G86 | [296-1094-1-ND](https://www.digikey.com/en/products/detail/296-1094-1-ND) |
 
 ## Watch Assembly
 
