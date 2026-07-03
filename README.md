@@ -2,7 +2,9 @@
 
 ### A GPS-disciplined 1PPS reference wearable.
 
-It doesn't tell you the time. It tells you exactly when each second begins, synchronized to the same atomic clocks that run GPS
+[![Watch the video](https://img.youtube.com/vi/AHSqyuOPpf0/0.jpg)](https://youtu.be/AHSqyuOPpf0)
+
+It doesn't tell you the time. It tells you exactly when each second begins, synchronized to the same atomic clocks that run GPS.
 
 ---
 
