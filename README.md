@@ -55,8 +55,9 @@ Any standard 22mm watch band works. Tested with:
 
 ### Hardware
 
-- 2 x M2x6mm Flat Head Plastic Threading Screws to mount body to strap mount.
-- 2 x M3x35mm Round Head Machine Screws to mount strap. Just Thread into the plastic snugly.
+- 2 x M2x6mm Flat Head Plastic Threading Screws to mount body to strap mount. - https://www.mcmaster.com/90485A415/
+- 2 x M3x6mm Pan Head Plastic Threading Screws for mounting PCB to Body - https://www.mcmaster.com/99461A939/
+- 2 x M3x35mm Round Head Machine Screws to mount strap. Just Thread into the plastic snugly https://www.mcmaster.com/92000A134/
 ---
 
 *Felix Corp -- Idle Hands Dev R&D Division*
