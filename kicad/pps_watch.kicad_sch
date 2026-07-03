@@ -6050,6 +6050,17 @@
 				)
 			)
 		)
+		(property "Digikey Part No." "311-4348-1-ND"
+			(at 100.33 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "138a28ca-a6ac-403f-a80c-86369400f61c")
 		)
@@ -6270,6 +6281,17 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 74.93 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part No." "311-4348-1-ND"
 			(at 74.93 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -7205,6 +7227,17 @@
 				)
 			)
 		)
+		(property "Digikey Part No." "311-4348-1-ND"
+			(at 194.31 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9cf3a997-5bd2-4ce8-b6f4-5536d259eece")
 		)
@@ -7226,10 +7259,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "30c2f2a0-d0a6-4bec-9487-17751a819fb5")
 		(property "Reference" "R8"
@@ -7618,6 +7651,17 @@
 				)
 			)
 		)
+		(property "Digikey Part No." "311-10KARCT-ND"
+			(at 83.82 34.29 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7147aa22-b637-455d-bbc5-beadd1b6ea69")
 		)
@@ -7732,7 +7776,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "470R"
 			(at 243.84 48.26 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7787,6 +7831,28 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 243.84 50.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part No." "311-470ARCT-ND"
+			(at 243.84 50.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
 			(at 243.84 50.8 90)
 			(hide yes)
 			(show_name no)
@@ -7957,7 +8023,7 @@
 				)
 			)
 		)
-		(property "Digikey Part No." "1528-4328-ND"
+		(property "Digikey Part No." "1568-14417-ND"
 			(at 35.56 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -8110,7 +8176,7 @@
 				)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" "500mA PolyFuse"
 			(at 127 29.21 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8165,6 +8231,17 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 127 31.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part No." "F2772CT-ND"
 			(at 127 31.75 90)
 			(hide yes)
 			(show_name no)
@@ -8438,7 +8515,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "4c199fee-5cfb-4486-ae93-c789b0cecb9b")
 		(property "Reference" "SW1"
@@ -8783,10 +8860,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "605fe05e-810d-4945-b066-37babb796b47")
 		(property "Reference" "R7"
@@ -9228,6 +9305,17 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 220.98 106.68 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part No." "311-330ARCT-ND"
 			(at 220.98 106.68 90)
 			(hide yes)
 			(show_name no)
@@ -10125,6 +10213,28 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 222.25 132.08 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part No." "311-330ARCT-ND"
+			(at 222.25 132.08 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field8" ""
 			(at 222.25 132.08 90)
 			(hide yes)
 			(show_name no)
@@ -11365,118 +11475,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:Antenna")
-		(at 24.13 35.56 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b24c5991-c089-4c53-a11a-9fe53c7138ac")
-		(property "Reference" "AE2"
-			(at 26.67 34.9249 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "YEGT001AA"
-			(at 26.67 37.4649 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 24.13 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 24.13 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Antenna"
-			(at 24.13 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Digikey Part No." "2958-YEGT001AA-ND"
-			(at 24.13 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 24.13 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 24.13 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "1fb33bef-f657-4c78-acc8-740796e6a026")
-		)
-		(instances
-			(project "pps_watch"
-				(path "/987d13a6-6866-4185-a3be-1b844699664e"
-					(reference "AE2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 195.58 120.65 90)
 		(unit 1)
@@ -12355,6 +12353,17 @@
 				)
 			)
 		)
+		(property "Digikey Part No." "311-10KARCT-ND"
+			(at 158.75 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3e13079f-71b6-4b5f-8fb5-e16e41575220")
 		)
@@ -12656,6 +12665,17 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 45.72 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part No." "311-4348-1-ND"
 			(at 45.72 39.37 0)
 			(hide yes)
 			(show_name no)
